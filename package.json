@@ -1,0 +1,29 @@
+{
+  "name": "letsdraw",
+  "version": "1.0.0",
+  "description": "Let'sdraw is a collaborative web application that allows multiple users to draw, sketch, and interact with a virtual whiteboard in real-time.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZnbKhan/Letsdraw.git"
+  },
+  "keywords": [
+    "letsdraw",
+    "whiteboard",
+    "sketch"
+  ],
+  "author": "zainab khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZnbKhan/Letsdraw/issues"
+  },
+  "homepage": "https://github.com/ZnbKhan/Letsdraw#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}

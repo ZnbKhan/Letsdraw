@@ -2,10 +2,10 @@
   "name": "letsdraw",
   "version": "1.0.0",
   "description": "Let'sdraw is a collaborative web application that allows multiple users to draw, sketch, and interact with a virtual whiteboard in real-time.",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node app.js"
+    "start":"node index.js"
   },
   "repository": {
     "type": "git",
